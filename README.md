@@ -9,4 +9,5 @@ If you want to break out of math mode then input $$ followed by whatever you wan
 
 ## Personal deployment
 
-Create a .env file with your discord developer token then run index.js
+Create a .env file with your discord developer token then run index.js  
+Ensure all dependencies are installed.
